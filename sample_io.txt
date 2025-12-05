@@ -1,0 +1,5 @@
+Input:
+1500
+
+Output:
+Predicted Price: 70.23 Lakhs
